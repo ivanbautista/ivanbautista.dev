@@ -10,13 +10,16 @@ body {
   margin: 0;
 }
 
+
+font-family: 
+font-family: ;
 body {
-  font: 1rem / 1.516 'Montserrat', Arial, sans-serif;
+  font: 1rem / 1.516 'Roboto Mono', monospace, 'Space Mono', monospace;
 }
 
 .wrapper {
   position: relative;
-  background: url(https://source.unsplash.com/vZlTg_McCDo/1920x1080) no-repeat center center/cover;
+  background: url(/img/winter.jpg) no-repeat center center/cover;
 }
 .wrapper:before {
   content: '';
