@@ -168,3 +168,18 @@ footer {
 	vertical-align: middle;
 	font-size: 21px;
 }
+
+.drive-pdf {
+	position: relative;
+	padding-bottom: 75%;
+	height: 0;
+	overflow: hidden;
+}
+
+.drive-pdf iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100% !important;
+	height: 100% !important;
+}
